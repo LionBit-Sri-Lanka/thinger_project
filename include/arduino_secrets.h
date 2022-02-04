@@ -1,6 +1,6 @@
 #define USERNAME "algobel"
-#define DEVICE_ID "light"
-#define DEVICE_CREDENTIAL "auto@123"
+#define DEVICE_ID "lionbit"
+#define DEVICE_CREDENTIAL "BllK4JgF-q_LckAL"
 
-#define SSID "King"
-#define SSID_PASSWORD "12345678"
+#define SSID "King-knight"
+#define SSID_PASSWORD "nrl1633n"
